@@ -1,1 +1,3 @@
-![](https://c.tenor.com/D_gGTvKrxv0AAAAM/nope-not.gif)
+```
+0x00_vagrant is done!!
+```
